@@ -9,6 +9,7 @@
 #include <arduino.h>
 #include <SD.h>
 #include <SoftwareSerial.h>
+#include <SPI.h>
 
 #define PIC_PKT_LEN    128        //data length of each read, dont set this too big because ram is limited
 #define PIC_FMT_VGA    7

@@ -5,6 +5,7 @@
 //  button to take the a picture .
 //  For more details about the product please check http://www.seeedstudio.com/depot/
 
+#include <SPI.h>
 #include <arduino.h>
 #include <SD.h>
 
