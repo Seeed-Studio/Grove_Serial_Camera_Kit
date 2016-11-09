@@ -1,6 +1,6 @@
 Grove - Serial Camera Kit
 ---------------------------------------------------------
-[![Grove - Serial Camera Kit](http://www.seeedstudio.com/depot/images/product/Serial%20Camera.jpg)](http://www.seeedstudio.com/depot/grove-serial-camera-kit-p-1608.html?cPath=25_33)
+[![Grove - Serial Camera Kit](https://statics3.seeedstudio.com/images/product/Serial%20Camera.jpg)](http://www.seeedstudio.com/depot/grove-serial-camera-kit-p-1608.html?cPath=25_33)
 
 Grove - Serial Camera Kit includes one control board and two interchangeble lenses, one is standard lens and the other is wide-angle lens. It's a great camera for Arduino centered image recognition projects, because 30W pixel wouldn't be overwhelming for Arduino, so that real-time image recognition is possible. To make it more fun and playable, lenses of two specs are shipped in this kit. The standard one is for common photo shots and the wide-angle one is specially suitable for monitoring projects.
 
