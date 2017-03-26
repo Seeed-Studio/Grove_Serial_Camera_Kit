@@ -8,7 +8,7 @@ Specifications:
 
 - Input Voltage: 5V
 - Pixel: 300,000
-- Resolution: 640*480, 320*240, 160*120
+- Resolution: 640\*480, 320\*240, 160\*120
 - Uart Baud Rate: 9600~115200
 - Communication: RS485 and RS232
 - Photo JPEG compression, high, medium and low grades Optional
