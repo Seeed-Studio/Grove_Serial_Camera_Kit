@@ -21,7 +21,7 @@ Specifications:
 
 This code include two examples which can show you how to use the kit. 
 
-For more information, please refer to [wiki page](http://www.seeedstudio.com/wiki/Grove_-_Serial_Camera_Kit).
+For more information, please refer to [wiki page](http://wiki.seeedstudio.com/Grove-Serial_Camera_Kit/).
 
     
 ----
